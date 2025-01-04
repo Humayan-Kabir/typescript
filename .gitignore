@@ -1,0 +1,43 @@
+# Node.js modules
+node_modules/
+
+# TypeScript build output
+dist/
+build/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional: VSCode settings (if you're using VSCode)
+.vscode/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE or editor-specific files (you can add your own if needed)
+.idea/
+
+# Optional: coverage reports from testing tools like Jest
+coverage/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Optional: compiled JavaScript files (if you're using TypeScript only)
+*.js
+*.d.ts
+
+# npm package-lock or yarn.lock (if you want to ignore lock files, though typically not recommended)
+# package-lock.json
+# yarn.lock
